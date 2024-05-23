@@ -13,5 +13,21 @@ understand how casual riders and annual members use Cyclistic bikes dierently. F
 <h1>Ask</h1>
 Three questions will guide the future marketing program:
 1. How do annual members and casual riders use Cyclistic bikes dierently?
+
 2. Why would casual riders buy Cyclistic annual memberships?
-3. How can Cyclistic use digital media to inuence casual riders to become members?
+  
+4. How can Cyclistic use digital media to inuence casual riders to become members?
+
+Moreno has assigned you the rst question to answer: How do annual members and casual riders use Cyclistic bikes dierently?
+You will produce a report with the following deliverables:
+1. A clear statement of the business task
+   
+3. A description of all data sources used
+   
+5. Documentation of any cleaning or manipulation of data
+   
+7. A summary of your analysis
+   
+9. Supporting visualizations and key ndings
+    
+11. Your top three recommendations based on your analysis  
