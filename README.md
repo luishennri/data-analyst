@@ -31,4 +31,24 @@ You will produce a report with the following deliverables:
    
 9. Supporting visualizations and key ndings
     
-11. Your top three recommendations based on your analysis  
+11. Your top three recommendations based on your analysis
+
+![image](https://github.com/luishennri/data-analyst/assets/62727490/376ca7da-6669-44ff-b0dd-f374fe5f5c2e)
+
+![image](https://github.com/luishennri/data-analyst/assets/62727490/b2d87438-feea-45bf-b5ab-20f2a649c10d)
+
+![image](https://github.com/luishennri/data-analyst/assets/62727490/9fb335e3-6cca-4aed-8ce7-352f9302969f)
+
+![image](https://github.com/luishennri/data-analyst/assets/62727490/93a8baa4-a7cf-4b93-9797-c693af32f506)
+
+![image](https://github.com/luishennri/data-analyst/assets/62727490/36a0925f-dbc7-47aa-a674-230c81f98e86)
+
+![image](https://github.com/luishennri/data-analyst/assets/62727490/b194be64-50fa-4475-9cc4-f093259275c1)
+
+![image](https://github.com/luishennri/data-analyst/assets/62727490/6a83a182-4c69-4190-aa39-6264a7d7f3a5)
+
+![image](https://github.com/luishennri/data-analyst/assets/62727490/11827454-f202-4a38-8e0e-d9bf3d5632b4)
+
+![image](https://github.com/luishennri/data-analyst/assets/62727490/bf4a6efe-1ffc-40a2-8fd4-828d456bf59c)
+
+
