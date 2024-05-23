@@ -49,7 +49,7 @@ You will produce a report with the following deliverables:
 
 <h1>Analysis:</h1>
 
-It seems that the casual users travel the same average distance than the member users, but they have relatively longer rides, that would indicate a more leisure oriented usage vs a more "public transport" or pragmatic use of the bikes by the annual members. Casual riders are more likely to return their bikes at the same station. Additionaly, while that membership riders are more active on weekday, casual riders use the service more often over weekend. It lead me to conclude that membership riders use this service for their commute while casual rider use it for fun.
+It seems that the casual users travel almost the same average distance than the member users, but they have relatively longer rides, that would indicate a more leisure oriented usage vs a more "public transport" or pragmatic use of the bikes by the annual members. Casual riders are more likely to return their bikes at the same station. Additionaly, while that membership riders are more active on weekday, casual riders use the service more often over weekend. It lead me to conclude that membership riders use this service for their commute while casual rider use it for fun.
 
 <h1>Conclusion:</h1>
 
