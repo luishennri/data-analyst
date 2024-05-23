@@ -45,10 +45,14 @@ You will produce a report with the following deliverables:
 
 ![image](https://github.com/luishennri/data-analyst/assets/62727490/b194be64-50fa-4475-9cc4-f093259275c1)
 
-![image](https://github.com/luishennri/data-analyst/assets/62727490/6a83a182-4c69-4190-aa39-6264a7d7f3a5)
-
-![image](https://github.com/luishennri/data-analyst/assets/62727490/11827454-f202-4a38-8e0e-d9bf3d5632b4)
-
 ![image](https://github.com/luishennri/data-analyst/assets/62727490/bf4a6efe-1ffc-40a2-8fd4-828d456bf59c)
 
+<h1>Analysis:</h1>
 
+It seems that the casual users travel the same average distance than the member users, but they have relatively longer rides, that would indicate a more leisure oriented usage vs a more "public transport" or pragmatic use of the bikes by the annual members. Casual riders are more likely to return their bikes at the same station. Additionaly, while that membership riders are more active on weekday, casual riders use the service more often over weekend. It lead me to conclude that membership riders use this service for their commute while casual rider use it for fun.
+
+<h1>Conclusion:</h1>
+
+1)The Casual users have leisure, and tourism rides mostly on weekends.
+
+2)The Annual users have commute or pragmatic rides during weekdays.
