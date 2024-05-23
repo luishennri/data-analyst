@@ -1,4 +1,4 @@
-<h1>Scenario<h1>
+<h1>Scenario</h1>
 You are a junior data analyst working on the marketing analyst team at Cyclistic, a bike-share
 company in Chicago. The director of marketing believes the company’s future success
 depends on maximizing the number of annual memberships. Therefore, your team wants to
@@ -6,7 +6,7 @@ understand how casual riders and annual members use Cyclistic bikes dierently. F
 insights, your team will design a new marketing strategy to convert casual riders into annual
 members. But rst, Cyclistic executives must approve your recommendations, so they must be
 backed up with compelling data insights and professional data visualizations.
-Characters and teams
+<h1>Characters and teams</h1>
 ● Cyclistic: A bike-share program that features more than 5,800 bicycles and 600
 docking stations. Cyclistic sets itself apart by also oering reclining bikes, hand
 tricycles, and cargo bikes, making bike-share more inclusive to people with disabilities
@@ -44,7 +44,7 @@ annual members. In order to do that, however, the team needs to beer understand 
 annual members and casual riders dier, why casual riders would buy a membership, and how
 digital media could aect their marketing tactics. Moreno and her team are interested in
 analyzing the Cyclistic historical bike trip data to identify trends.
-Ask
+<h1>Ask</h1>
 Three questions will guide the future marketing program:
 1. How do annual members and casual riders use Cyclistic bikes dierently?
 2. Why would casual riders buy Cyclistic annual memberships?
